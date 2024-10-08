@@ -1,0 +1,120 @@
+phrases with 1 words 
+the**3972
+and**3192
+a**1936
+to**1807
+of**1585
+he**1201
+was**1170
+it**1166
+in**1012
+that**923
+%%%%%%%%%%%%%%%%%%%%
+phrases with 2 words 
+of the**364
+in the**319
+and the**188
+it was**183
+to the**179
+he was**148
+and then**129
+there was**117
+was a**117
+in a**115
+%%%%%%%%%%%%%%%%%%%%
+phrases with 3 words 
+project gutenberg tm**56
+there was a**44
+by and by**32
+the project gutenberg**31
+out of the**22
+i don't know**21
+it was a**19
+gutenberg tm electronic**18
+all the time**15
+out of his**15
+%%%%%%%%%%%%%%%%%%%%
+phrases with 4 words 
+project gutenberg tm electronic**18
+gutenberg literary archive foundation**13
+project gutenberg literary archive**13
+the project gutenberg literary**13
+the project gutenberg tm**13
+gutenberg tm electronic works**12
+terms of this agreement**9
+of project gutenberg tm**8
+of the project gutenberg**8
+project gutenberg tm license**8
+%%%%%%%%%%%%%%%%%%%%
+phrases with 5 words 
+project gutenberg literary archive foundation**13
+the project gutenberg literary archive**13
+project gutenberg tm electronic works**12
+the terms of this agreement**7
+full project gutenberg tm license**6
+project gutenberg tm electronic work**6
+to the project gutenberg literary**6
+of the project gutenberg tm**5
+the full project gutenberg tm**5
+of project gutenberg tm electronic**4
+%%%%%%%%%%%%%%%%%%%%
+phrases with 6 words 
+the project gutenberg literary archive foundation**13
+to the project gutenberg literary archive**6
+the full project gutenberg tm license**5
+of project gutenberg tm electronic works**4
+a project gutenberg tm electronic work**3
+donations to the project gutenberg literary**3
+of the project gutenberg tm trademark**3
+owner of the project gutenberg tm**3
+the owner of the project gutenberg**3
+1 e 1 through 1 e**2
+%%%%%%%%%%%%%%%%%%%%
+phrases with 7 words 
+to the project gutenberg literary archive foundation**6
+donations to the project gutenberg literary archive**3
+owner of the project gutenberg tm trademark**3
+the owner of the project gutenberg tm**3
+1 e 1 through 1 e 7**2
+1 e 8 or 1 e 9**2
+a full refund of any money paid**2
+about donations to the project gutenberg literary**2
+about the project gutenberg literary archive foundation**2
+agree to be bound by the terms**2
+%%%%%%%%%%%%%%%%%%%%
+phrases with 8 words 
+donations to the project gutenberg literary archive foundation**3
+the owner of the project gutenberg tm trademark**3
+about donations to the project gutenberg literary archive**2
+agree to be bound by the terms of**2
+an individual project gutenberg tm electronic work is**2
+anyone anywhere at no cost and with almost**2
+anywhere at no cost and with almost no**2
+at no cost and with almost no restrictions**2
+away or re use it under the terms**2
+be bound by the terms of this agreement**2
+%%%%%%%%%%%%%%%%%%%%
+phrases with 9 words 
+about donations to the project gutenberg literary archive foundation**2
+agree to be bound by the terms of this**2
+anyone anywhere at no cost and with almost no**2
+anywhere at no cost and with almost no restrictions**2
+at no cost and with almost no restrictions whatsoever**2
+away or re use it under the terms of**2
+ebook is for the use of anyone anywhere at**2
+for the use of anyone anywhere at no cost**2
+give it away or re use it under the**2
+gutenberg license included with this ebook or online at**2
+%%%%%%%%%%%%%%%%%%%%
+phrases with 10 words 
+agree to be bound by the terms of this agreement**2
+anyone anywhere at no cost and with almost no restrictions**2
+anywhere at no cost and with almost no restrictions whatsoever**2
+away or re use it under the terms of the**2
+ebook is for the use of anyone anywhere at no**2
+for the use of anyone anywhere at no cost and**2
+give it away or re use it under the terms**2
+gutenberg license included with this ebook or online at www**2
+included with this ebook or online at www gutenberg net**2
+information about donations to the project gutenberg literary archive foundation**2
+%%%%%%%%%%%%%%%%%%%%
