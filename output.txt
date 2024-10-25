@@ -1,0 +1,130 @@
+
+Top 10 most frequent phrases for length 1:
+
+phrase: the		 Tom Sawyer Freq: 3972		 Huckleberry Finn Freq: 5084
+phrase: and		 Tom Sawyer Freq: 3192		 Huckleberry Finn Freq: 6442
+phrase: a		 Tom Sawyer Freq: 1936		 Huckleberry Finn Freq: 3260
+phrase: to		 Tom Sawyer Freq: 1807		 Huckleberry Finn Freq: 3024
+phrase: of		 Tom Sawyer Freq: 1585		 Huckleberry Finn Freq: 1778
+phrase: he		 Tom Sawyer Freq: 1200		 Huckleberry Finn Freq: 1685
+phrase: was		 Tom Sawyer Freq: 1170		 Huckleberry Finn Freq: 2072
+phrase: it		 Tom Sawyer Freq: 1165		 Huckleberry Finn Freq: 2349
+phrase: in		 Tom Sawyer Freq: 1012		 Huckleberry Finn Freq: 1515
+phrase: that		 Tom Sawyer Freq: 923		 Huckleberry Finn Freq: 1101
+
+Top 10 most frequent phrases for length 2:
+
+phrase: of the		 Tom Sawyer Freq: 385		 Huckleberry Finn Freq: 365
+phrase: in the		 Tom Sawyer Freq: 323		 Huckleberry Finn Freq: 456
+phrase: and the		 Tom Sawyer Freq: 188		 Huckleberry Finn Freq: 326
+phrase: it was		 Tom Sawyer Freq: 184		 Huckleberry Finn Freq: 371
+phrase: to the		 Tom Sawyer Freq: 183		 Huckleberry Finn Freq: 252
+phrase: he was		 Tom Sawyer Freq: 148		 Huckleberry Finn Freq: 204
+phrase: and then		 Tom Sawyer Freq: 129		 Huckleberry Finn Freq: 250
+phrase: was a		 Tom Sawyer Freq: 118		 Huckleberry Finn Freq: 223
+phrase: there was		 Tom Sawyer Freq: 117		 Huckleberry Finn Freq: 127
+phrase: in a		 Tom Sawyer Freq: 116		 Huckleberry Finn Freq: 165
+
+Top 10 most frequent phrases for length 3:
+
+phrase: project gutenberg tm		 Tom Sawyer Freq: 56		 Huckleberry Finn Freq: 56
+phrase: there was a		 Tom Sawyer Freq: 44		 Huckleberry Finn Freq: 50
+phrase: by and by		 Tom Sawyer Freq: 32		 Huckleberry Finn Freq: 85
+phrase: the project gutenberg		 Tom Sawyer Freq: 31		 Huckleberry Finn Freq: 31
+phrase: out of the		 Tom Sawyer Freq: 22		 Huckleberry Finn Freq: 62
+phrase: i don't know		 Tom Sawyer Freq: 21		 Huckleberry Finn Freq: 31
+phrase: it was a		 Tom Sawyer Freq: 20		 Huckleberry Finn Freq: 50
+phrase: gutenberg tm electronic		 Tom Sawyer Freq: 18		 Huckleberry Finn Freq: 18
+phrase: all the time		 Tom Sawyer Freq: 15		 Huckleberry Finn Freq: 48
+phrase: out of his		 Tom Sawyer Freq: 15		 Huckleberry Finn Freq: 17
+
+Top 10 most frequent phrases for length 4:
+
+phrase: project gutenberg tm electronic		 Tom Sawyer Freq: 18		 Huckleberry Finn Freq: 18
+phrase: gutenberg literary archive foundation		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: project gutenberg literary archive		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: the project gutenberg literary		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: the project gutenberg tm		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: gutenberg tm electronic works		 Tom Sawyer Freq: 12		 Huckleberry Finn Freq: 12
+phrase: terms of this agreement		 Tom Sawyer Freq: 9		 Huckleberry Finn Freq: 9
+phrase: of project gutenberg tm		 Tom Sawyer Freq: 8		 Huckleberry Finn Freq: 8
+phrase: of the project gutenberg		 Tom Sawyer Freq: 8		 Huckleberry Finn Freq: 8
+phrase: project gutenberg tm license		 Tom Sawyer Freq: 8		 Huckleberry Finn Freq: 8
+
+Top 10 most frequent phrases for length 5:
+
+phrase: project gutenberg literary archive foundation		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: the project gutenberg literary archive		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: project gutenberg tm electronic works		 Tom Sawyer Freq: 12		 Huckleberry Finn Freq: 12
+phrase: the terms of this agreement		 Tom Sawyer Freq: 7		 Huckleberry Finn Freq: 7
+phrase: full project gutenberg tm license		 Tom Sawyer Freq: 6		 Huckleberry Finn Freq: 6
+phrase: project gutenberg tm electronic work		 Tom Sawyer Freq: 6		 Huckleberry Finn Freq: 6
+phrase: to the project gutenberg literary		 Tom Sawyer Freq: 6		 Huckleberry Finn Freq: 6
+phrase: of the project gutenberg tm		 Tom Sawyer Freq: 5		 Huckleberry Finn Freq: 5
+phrase: the full project gutenberg tm		 Tom Sawyer Freq: 5		 Huckleberry Finn Freq: 5
+phrase: of project gutenberg tm electronic		 Tom Sawyer Freq: 4		 Huckleberry Finn Freq: 4
+
+Top 10 most frequent phrases for length 6:
+
+phrase: the project gutenberg literary archive foundation		 Tom Sawyer Freq: 13		 Huckleberry Finn Freq: 13
+phrase: to the project gutenberg literary archive		 Tom Sawyer Freq: 6		 Huckleberry Finn Freq: 6
+phrase: the full project gutenberg tm license		 Tom Sawyer Freq: 5		 Huckleberry Finn Freq: 5
+phrase: of project gutenberg tm electronic works		 Tom Sawyer Freq: 4		 Huckleberry Finn Freq: 4
+phrase: a project gutenberg tm electronic work		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: donations to the project gutenberg literary		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: of the project gutenberg tm trademark		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: owner of the project gutenberg tm		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: project gutenberg literary archive foundation the		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: the owner of the project gutenberg		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+
+Top 10 most frequent phrases for length 7:
+
+phrase: to the project gutenberg literary archive foundation		 Tom Sawyer Freq: 6		 Huckleberry Finn Freq: 6
+phrase: donations to the project gutenberg literary archive		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: owner of the project gutenberg tm trademark		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: the owner of the project gutenberg tm		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: the project gutenberg literary archive foundation the		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: 1 e 1 through 1 e 7		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: 1 e 8 or 1 e 9		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: 4 information about donations to the project		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: 8 or 1 e 9 1 e		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: a full refund of any money paid		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+
+Top 10 most frequent phrases for length 8:
+
+phrase: donations to the project gutenberg literary archive foundation		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: the owner of the project gutenberg tm trademark		 Tom Sawyer Freq: 3		 Huckleberry Finn Freq: 3
+phrase: 1 e 8 or 1 e 9 1		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: 4 information about donations to the project gutenberg		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: about donations to the project gutenberg literary archive		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: agree to be bound by the terms of		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: almost no restrictions whatsoever you may copy it		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: an individual project gutenberg tm electronic work is		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: and with almost no restrictions whatsoever you may		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: anyone anywhere at no cost and with almost		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+
+Top 10 most frequent phrases for length 9:
+
+phrase: 1 e 8 or 1 e 9 1 e		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: 4 information about donations to the project gutenberg literary		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: about donations to the project gutenberg literary archive foundation		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: agree to be bound by the terms of this		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: almost no restrictions whatsoever you may copy it give		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: and with almost no restrictions whatsoever you may copy		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: anyone anywhere at no cost and with almost no		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: anywhere at no cost and with almost no restrictions		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: at no cost and with almost no restrictions whatsoever		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: away or re use it under the terms of		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+
+Top 10 most frequent phrases for length 10:
+
+phrase: 4 information about donations to the project gutenberg literary archive		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: agree to be bound by the terms of this agreement		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: almost no restrictions whatsoever you may copy it give it		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: and with almost no restrictions whatsoever you may copy it		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: anyone anywhere at no cost and with almost no restrictions		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: anywhere at no cost and with almost no restrictions whatsoever		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: at no cost and with almost no restrictions whatsoever you		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: away or re use it under the terms of the		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: copy it give it away or re use it under		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
+phrase: cost and with almost no restrictions whatsoever you may copy		 Tom Sawyer Freq: 2		 Huckleberry Finn Freq: 2
